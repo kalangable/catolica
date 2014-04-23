@@ -24,5 +24,6 @@
   </dependencies>
   <modules>
     <module>estrutura-dados-II</module>
+    <module>programacao-III</module>
   </modules>
 </project>
